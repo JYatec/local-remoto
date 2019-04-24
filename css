@@ -1,0 +1,91 @@
+*{
+	BORDER:0;
+	MARGIN:0;
+	padding:0;
+	}
+	
+BODY {
+	background:#ccc;
+	}
+
+#CONTENEDOR  {
+	
+	height: 1050px;
+	width: 780px;
+	margin-right: auto;/*auto centrado*/
+	margin-left: auto;/*auto centrado*/
+	
+	}
+	
+HEADER , #DIVICION{
+	
+	background:#fff;
+	width: 760px;
+	height: 100px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:5px;
+	text-align:center;
+	MARGIN:10px 8px;
+	
+	}
+	
+#DIVICION{
+
+	background:#666;
+	height: 500px;
+	width: 760px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:5px;
+	text-align:center;
+	
+	}
+	
+
+	
+#DIVICION  #DIVICION1{	
+
+	background:#999;
+	width:185px;
+	height:495px;
+	display: inline-block;
+	vertical-align: top;
+
+}
+
+#DIVICION  #DIVICION2{	
+
+	background:#124EB0;
+	width:400px;
+	height:495px;
+	display: inline-block;
+	vertical-align: top;
+
+
+}
+
+#DIVICION  #DIVICION3{	
+
+	background:#999;
+	width:155px;
+	height:495px;
+	display: inline-block;
+	vertical-align: top;
+	
+	
+}
+
+FOOTER	{
+	
+	background:red;
+	width: 760px;
+	height: 70px;
+	padding-left:10px;
+	padding-right:10px;
+	text-align:center;
+	MARGIN:10px 8px;
+	
+	
+	}
+
